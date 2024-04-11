@@ -1,8 +1,8 @@
-# Spotify-Status
+# 🎧 Spotify-Status
 Get spotify curent track in your Whatsapp about me, like discord system.
 
 
-# Config
+# ⚙ Config
 1 - First, you need to create your spotify app from the [Developer page](https://developer.spotify.com/dashboard) 
 
 2 - Rename the `exemple.env` to `.env`
