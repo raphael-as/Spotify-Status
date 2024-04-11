@@ -16,7 +16,6 @@ yarn start
 
 # Enjoy ! 🎉
 
-# 📸 Screens
 
 ![playing](https://cdn.discordapp.com/attachments/1088567136202522646/1227967915949817958/Screenshot_20240411-154807.png?ex=662a553d&is=6617e03d&hm=7c9cdea9a20e3971bae429ea9936ca7b5b08f73694b643f142a7e2cad8cda38e&)
 
