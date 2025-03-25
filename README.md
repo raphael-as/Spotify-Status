@@ -17,11 +17,11 @@ yarn start
 # Enjoy ! 🎉
 
 
-![playing](https://cdn.discordapp.com/attachments/1088567136202522646/1227967915949817958/Screenshot_20240411-154807.png?ex=662a553d&is=6617e03d&hm=7c9cdea9a20e3971bae429ea9936ca7b5b08f73694b643f142a7e2cad8cda38e&)
+![playing](./assets/img1.png)
 
 
 
-![not playing](https://media.discordapp.net/attachments/1088567136202522646/1227968295161040906/image0.png?ex=662a5598&is=6617e098&hm=510cc29ea4d203c4b700f3a501a62d601d11732ed9a56133171b39226b3c170a&=&format=webp&quality=lossless)
+![not playing](./assets/img2.png)
 
 
 
